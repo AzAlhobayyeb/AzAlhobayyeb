@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz ALhobayyeb</h1>
 <h3 align="center">Android Developer from Saudi Arabia</h3>
-(img align="right" alt="Coding" width="400" src="https://tenor.com/bQ6Vf.gif")
+<img align="right" alt="Coding" width="400" src="https://tenor.com/bQ6Vf.gif">
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, KMM**
 
