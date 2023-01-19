@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz ALhobayyeb</h1>
 <h3 align="center">Android Developer from Saudi Arabia</h3>
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/bQ6Vf.gif](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG)">
+<img align="right" alt="Coding" width="400" src="[[https://tenor.com/bQ6Vf.gif](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG)](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)">
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, KMM**
 
