@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz ALhobayyeb</h1>
 <h3 align="center">Android Developer from Saudi Arabia</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG">
+<img align="right" alt="Coding" width="400" src="<iframe src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47zze9957chou8tgbo4mjxlgzkr0gjzfao0xi085ba&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, KMM**
 
